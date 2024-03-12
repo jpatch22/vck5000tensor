@@ -1,0 +1,6 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "linregress.xmodel",
+    "kernel": "",
+    "target": "DPUCVDX8H_ISA1_F2W4_4PE"
+}
